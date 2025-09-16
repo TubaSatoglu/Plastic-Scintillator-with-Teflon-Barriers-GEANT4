@@ -1,0 +1,4 @@
+/home/tuba/Documents/geant4_examples/Plastic Scintillator with Teflon Barriers (sıfırdan) (Denemeler)/Plastic Scintillator with Teflon Barriers 9ağustos (YEP Aluminyumda optik foton detection'ı da tamam)/build/CMakeFiles/sim.dir
+/home/tuba/Documents/geant4_examples/Plastic Scintillator with Teflon Barriers (sıfırdan) (Denemeler)/Plastic Scintillator with Teflon Barriers 9ağustos (YEP Aluminyumda optik foton detection'ı da tamam)/build/CMakeFiles/OpticalSim.dir
+/home/tuba/Documents/geant4_examples/Plastic Scintillator with Teflon Barriers (sıfırdan) (Denemeler)/Plastic Scintillator with Teflon Barriers 9ağustos (YEP Aluminyumda optik foton detection'ı da tamam)/build/CMakeFiles/edit_cache.dir
+/home/tuba/Documents/geant4_examples/Plastic Scintillator with Teflon Barriers (sıfırdan) (Denemeler)/Plastic Scintillator with Teflon Barriers 9ağustos (YEP Aluminyumda optik foton detection'ı da tamam)/build/CMakeFiles/rebuild_cache.dir
